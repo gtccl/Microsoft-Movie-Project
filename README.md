@@ -53,8 +53,12 @@ Foreign audiences bring in most of the Top 50 total gross revenue.
 <img width="615" alt="Domestic and Foreign Gross Performance" src="https://github.com/gtccl/Microsoft-Movie-Project/assets/153160634/9e1cde73-755e-4aea-b9b4-82acbd418ea4">
 
 
+
+
 The highest rated films are not necessarily the most profitable.
 ![image](https://github.com/gtccl/Microsoft-Movie-Project/assets/153160634/c68f353f-4e54-4e44-ac4c-293cf4e31541)
+
+
 
 
 The Adventure genre is the most common genres in the top 50 grossing films. 
