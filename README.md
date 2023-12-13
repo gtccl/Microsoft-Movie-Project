@@ -93,14 +93,14 @@ While this project analysis aims to explore what type of films are currently doi
 There are three deliverables for this project:
 
 
-GitHub Repository for this project:
-```
-├── zippedData
-├── Analysis Images
-├── README.md
-├── Microsoft Movie Studios.ipnyb
-└── Microsoft Movie Studios Presentation.pdf
-```
+GitHub Repository for this project includes:
+
+* zippedData folder
+* Analysis Images folder
+* README.md
+* Microsoft Movie Studios.ipnyb
+* Microsoft Movie Studios Presentation.pdf
+
 
 See the full data analysis in the Microsoft Movie Studios Analysis.ipynb (Jupyter Notebook)
 
