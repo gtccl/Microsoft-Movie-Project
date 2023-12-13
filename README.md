@@ -85,10 +85,13 @@ There are three deliverables for this project:
 
 
 GitHub Repository for this project:
-|-- zippedData folder
-|-- README.md
-|--Microsoft Movie Studios Analysis.ipynb
-|--
+```
+├── zippedData
+├── Analysis Images
+├── README.md
+├── Microsoft Movie Studios.ipnyb
+└── Microsoft Movie Studios Presentation.pdf
+```
 
 See the full data analysis in the Microsoft Movie Studios Analysis.ipynb (Jupyter Notebook)
 
