@@ -24,15 +24,13 @@ The below are included but not used in this project:
 * [The Numbers](https://www.the-numbers.com/)
 
 
-The data used in the analysis from this projects comes from the above sources:
+The data used in the analysis from this projects comes from IMDb and Box Office Mojo:
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
 
-This data was collected from studio reports, user reviews, box office reports and a combination of the above.
-
-
-The dataset represents records for each individual movie including the title, release date, genre, budget, box office gross, and ratings which we will use to understand and create business insights from. 
+Studio reports, user reviews, box office reports and other information was extracted from the BOM and IMDb databases.
+The data represents records for each individual movie including the title, release date, genre, budget, box office gross, and ratings which we will use to understand and create business insights from. 
 
 
 
@@ -102,8 +100,8 @@ GitHub Repository for this project:
 └── Microsoft Movie Studios Presentation.pdf
 ```
 
-See the full data analysis in the Microsoft Movie Studios Analysis.ipynb (Jupyter Notebook)
+See the full data analysis in the Microsoft Movie Studios Analysis.ipynb (Jupyter Notebook; https://github.com/gtccl/Microsoft-Movie-Project/blob/main/Microsoft%20Movie%20Studios%20Analysis.ipynb)
 
-See the non-technical presentation in this PDF 
+See the non-technical presentation in this PDF (https://docs.google.com/presentation/d/10cnYTSpIb042c8XYsz1v1fNc-SRJLqB0tMgdDyobpg8/edit?usp=sharing) 
 
 
